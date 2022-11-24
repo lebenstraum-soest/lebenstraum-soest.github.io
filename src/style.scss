@@ -1,0 +1,25 @@
+@import "./_bulma.min.css";
+
+$orange: #ec6607;
+$offwhite: #f5f3ec;
+
+main .content {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: $orange;
+  }
+
+  section {
+    // Full width background
+    margin: 0 -100%;
+    padding: 1rem 100%;
+  }
+
+  section:nth-child(even) {
+    background-color: $offwhite;
+  }
+}
