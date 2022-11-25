@@ -1,24 +1,32 @@
+<div class="header">
+
+![Mann im Rollstuhl](index-bild1.jpg)
+![Jugendlicher Trisomie mit Schwester](index-bild2.jpg)
+![Mann Spastik Therapiepferd](index-bild3.jpg)
+
 **Wir bereiten Menschen mit Behinderung mehr Lebens- und Wohnqualität. Diese Menschen werden in einer Wohneinrichtung der Josefsheim gGmbH in Soest leben.**
 
-<section class="links">
+</div>
 
+<div class="links">
 <a class="button is-primary" href="#wer-sind-wir">Wer sind wir?</a>
 <a class="button is-primary" href="#was-machen-wir">Was machen wir?</a>
 <a class="button is-primary" href="#was-treibt-uns-an">Was treibt uns an?</a>
 <a class="button is-primary" href="#welche-ziele-verfolgen-wir">Welche Ziele verfolgen wir?</a>
 <a class="button is-primary" href="#wollen-sie-mitmachen">Wollen Sie mitmachen?</a>
-<a class="button is-primary" href="#schreiben-sie-uns">Schreiben Sie uns</a>
-
-</section>
+<a class="button is-primary" href="#hier-finden-sie-uns">Hier finden Sie uns!</a>
+</div>
 
 <section>
 
 ## Wer sind wir?
 
-Wir sind ein Förderverein, der aus einer Elterninitiative hervorgegangen ist. Unsre Kinder sind mit schweren oder schwersten Behinderungen zur Welt gekommen.
+Wir sind ein Förderverein, der aus einer **Elterninitiative** hervorgegangen ist. Unsre Kinder sind mit schweren oder schwersten Behinderungen zur Welt gekommen.
+
 Wir setzen uns dafür ein, dass sie im Sinne des Art. 19 UN-Behindertenrechtskonvention auch als Erwachsene
 in der Nähe ihrer Familien wohnen können. Dies wird ermöglicht durch den Bau der geplanten Wohneinrichtung für Erwachsene mit Behinderung in Soest, deren Träger die Josefsheim gGmbH sein wird.
-Wir möchten in dem neuen Wohnumfeld unterstützend tätig werden, um unseren Kindern im Wohn- und Freizeitbereich das Leben zu verschönern und zu erleichtern.
+
+**Wir möchten in dem neuen Wohnumfeld unterstützend tätig werden, um unseren Kindern im Wohn- und Freizeitbereich das Leben zu verschönern und zu erleichtern.**
 
 </section>
 
@@ -58,17 +66,24 @@ Wenn Sie unsere Ziele unterstützen möchten, dann seien Sie herzlich willkommen
 
 <section>
 
-### Schreiben Sie uns:
+### Hier finden Sie uns!
 
-info@lebenstraum-soest.de
-
-Hier finden Sie uns!
 Bei Fragen wenden Sie sich gerne an uns.
-LebensTraum-Soest e. V.
-In den Kalten Höfen 31
-59494 Soest
-Telefon 0 29 21 - 3 39 71 73
-www.lebenstraum-soest.de
+
+LebensTraum-Soest e. V.  
+In den Kalten Höfen 31  
+59494 Soest  
+Telefon 0 29 21 - 3 39 71 73  
+www.lebenstraum-soest.de  
 info@lebenstraum-soest.de
+
+<div class="links">
+<a class="button is-primary" href="">Vorstand</a>
+<a class="button is-primary" href="">Satzung</a>
+<a class="button is-primary" href="Datenschutzerklärung.pdf">Datenschutz</a>
+<a class="button is-primary" href="">Spendenkonto</a>
+<a class="button is-primary" href="Mitgliedsantrag.pdf">Mitgliedsantrag</a>
+<a class="button is-primary" href="">Impressum</a>
+</div>
 
 </section>

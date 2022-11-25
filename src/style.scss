@@ -1,25 +1,76 @@
 @import "./_bulma.min.css";
 
+$maxContentWidth: 830px;
 $orange: #ec6607;
 $offwhite: #f5f3ec;
 
-main .content {
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    color: $orange;
+body {
+  text-align: justify;
+
+  header {
+    max-width: $maxContentWidth !important;
+
+    img {
+      width: $maxContentWidth;
+    }
   }
 
-  section {
-    // Full width background
-    margin: 0 -100%;
-    padding: 1rem 100%;
-  }
+  main {
+    max-width: $maxContentWidth !important;
 
-  section:nth-child(even) {
-    background-color: $offwhite;
+    .content {
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        color: $orange;
+        max-width: $maxContentWidth;
+      }
+
+      .header p {
+        display: flex;
+        justify-content: center;
+        column-gap: 20px;
+
+        img {
+          width: 265px;
+        }
+      }
+
+      .links {
+        height: 200px;
+        display: grid;
+        grid-template-columns: 200px 200px 200px;
+        grid-gap: 20px;
+        align-content: center;
+        justify-content: center;
+
+        a {
+          height: 45px;
+        }
+      }
+
+      section {
+        // Full width background
+        margin: 0 -100%;
+        margin-bottom: 10px;
+        min-height: 300px;
+        padding: 1rem 100%;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+
+      section:nth-child(odd) {
+        background-color: $offwhite;
+      }
+
+      a.button.is-primary {
+        background-color: $orange;
+      }
+    }
   }
 }
