@@ -1,6 +1,6 @@
-import { html, LayoutFunction } from "book-binder";
+import { html, LayoutFunction, LayoutFunctionArgs } from "book-binder";
 
-const layout: LayoutFunction = (content: string) => {
+const layout: LayoutFunction = ({ content }: LayoutFunctionArgs) => {
   return Promise.resolve(
     <html>
       <head>
