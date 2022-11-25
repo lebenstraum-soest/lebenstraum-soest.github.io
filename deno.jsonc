@@ -20,7 +20,7 @@
   "importMap": "imports.jsonc",
   "tasks": {
     "build": "cd ../book-binder && deno task exec $INIT_CWD/src $INIT_CWD/bin",
-    "build:ci": "deno run --unstable --allow-net --allow-read --allow-write --config ./deno.jsonc https://raw.githubusercontent.com/smack0007/book-binder/v0.0.4/cli.ts $INIT_CWD/src $INIT_CWD/bin",
+    "build:ci": "deno run --unstable --allow-net --allow-read --allow-write --config ./deno.jsonc https://raw.githubusercontent.com/smack0007/book-binder/v0.0.5/cli.ts $INIT_CWD/src $INIT_CWD/bin",
     "serve": "deno run --allow-net --allow-read ./tools/serve.ts"
   }
 }
