@@ -81,7 +81,12 @@
     "https://raw.githubusercontent.com/smack0007/book-binder/v0.0.1/src/deps.ts": "87773944f3b5bd713c894e9da3d44b7c9206a3f187c8507136ac3bcbbca5f562",
     "https://raw.githubusercontent.com/smack0007/book-binder/v0.0.1/src/fs.ts": "f380fea31d551c36ce1acf8d1f5eba126629ddcd2f3eecffc0281e2c9a5cd7c7",
     "https://raw.githubusercontent.com/smack0007/book-binder/v0.0.1/src/main.ts": "dc9e06d91ea6bb89ec22fe6f3b36c6b2c7c8c22bf410940ad35ecdf0ef33e983",
-    "https://raw.githubusercontent.com/smack0007/book-binder/v0.0.1/src/types.ts": "9f118b1a2ce1cef28d047b3ff63390c3848c511c65985bd7da7dc69508c237c9"
+    "https://raw.githubusercontent.com/smack0007/book-binder/v0.0.1/src/types.ts": "9f118b1a2ce1cef28d047b3ff63390c3848c511c65985bd7da7dc69508c237c9",
+    "https://raw.githubusercontent.com/smack0007/book-binder/v0.0.2/cli.ts": "2b2e2c571eda8b4b41a006bbc87380e14fe81ecdddd7efb23ba333fa98e62c77",
+    "https://raw.githubusercontent.com/smack0007/book-binder/v0.0.2/src/deps.ts": "9cdbbdb5dd22fa8ae8ff6a41961a746002402eb3ae5fbc925d522cdb913c7b10",
+    "https://raw.githubusercontent.com/smack0007/book-binder/v0.0.2/src/fs.ts": "f380fea31d551c36ce1acf8d1f5eba126629ddcd2f3eecffc0281e2c9a5cd7c7",
+    "https://raw.githubusercontent.com/smack0007/book-binder/v0.0.2/src/main.ts": "b18052f740c9ab3f46c6151ab48cfebeffeef347e004288bf360181995cd84a1",
+    "https://raw.githubusercontent.com/smack0007/book-binder/v0.0.2/src/types.ts": "52b5fa6bcf4ed43c5ff12125197688dcf1a3011145332ebf9bd2ecdb35f4cbc0"
   },
   "npm": {
     "specifiers": { "marked": "marked@4.2.3" },
