@@ -1,5 +1,5 @@
 {
   "imports": {
-    "book-binder": "https://raw.githubusercontent.com/smack0007/book-binder/v0.0.7/mod.ts"
+    "book-binder": "https://raw.githubusercontent.com/smack0007/book-binder/v0.0.8/mod.ts"
   }
 }
