@@ -2,7 +2,7 @@ import { html, LayoutFunction, LayoutFunctionArgs } from "book-binder";
 
 const layout: LayoutFunction = ({ content }: LayoutFunctionArgs) => {
   return Promise.resolve(
-    <html>
+    <html lang="de">
       <head>
         <meta charset="utf-8" />
         <meta
@@ -14,11 +14,11 @@ const layout: LayoutFunction = ({ content }: LayoutFunctionArgs) => {
         <title>LebensTraum-Soest e. V.</title>
         <link rel="stylesheet" type="text/css" href="style.css" />
       </head>
-      <body>
-        <header class="container mb-6">
+      <body class="container is-centered">
+        <header class="column mb-6">
           <img id="logo" src="logo.png" alt="LebensTraum-Soest e. V." />
         </header>
-        <main class="container">
+        <main class="">
           <div class="content">{content}</div>
         </main>
       </body>

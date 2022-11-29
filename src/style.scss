@@ -3,6 +3,7 @@
 $maxContentWidth: 830px;
 $orange: #ec6607;
 $offwhite: #f5f3ec;
+$textPadding: 48px;
 
 @font-face {
   font-family: "Open Sans";
@@ -15,17 +16,18 @@ $offwhite: #f5f3ec;
     U+FEFF, U+FFFD;
 }
 
-body {
+html {
   font-family: "Open Sans";
   font-weight: 400;
-  font-size: 18px;
-  text-align: justify;
-  display: grid;
+}
+
+body {
+  text-align: left;
   justify-content: center;
-  width: 100%;
+  max-width: $maxContentWidth !important;
 
   header {
-    max-width: $maxContentWidth !important;
+    text-align: center;
 
     img {
       width: $maxContentWidth;
@@ -33,8 +35,6 @@ body {
   }
 
   main {
-    max-width: $maxContentWidth !important;
-
     .content {
       h1,
       h2,
@@ -46,39 +46,57 @@ body {
         max-width: $maxContentWidth;
       }
 
-      .header p {
-        display: flex;
-        justify-content: center;
-        column-gap: 20px;
+      .header {
+        .column {
+          display: flex;
+          justify-content: center;
 
-        img {
-          width: 265px;
+          img {
+            width: 265px;
+          }
         }
       }
 
       .links {
-        height: 200px;
-        display: grid;
-        grid-template-columns: 200px 200px 200px;
-        grid-gap: 20px;
-        align-content: center;
-        justify-content: center;
+        .column {
+          text-align: center;
 
-        a {
-          height: 45px;
+          a {
+            width: 260px;
+            height: 45px;
+          }
         }
       }
 
       section {
-        min-height: 300px;
-        padding: 3rem;
+        min-height: 350px;
+        padding: $textPadding 0;
         display: flex;
-        flex-direction: column;
-        justify-content: center;
+
+        h2 {
+          text-align: left;
+        }
+
+        .text {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+        }
+
+        .images {
+          flex-direction: column;
+
+          img {
+            width: 265px;
+            max-width: 265px;
+          }
+        }
       }
 
       section:nth-child(odd) {
         background-color: $offwhite;
+        box-shadow: 0 0 0 100vmax $offwhite;
+        clip-path: inset(0 -100vmax);
       }
 
       a.button.is-primary {
