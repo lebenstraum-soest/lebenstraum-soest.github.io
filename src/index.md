@@ -43,7 +43,7 @@
 
 <section>
 
-<div class="text">
+  <div class="text">
 
 ## Wer sind wir?
 
@@ -54,63 +54,87 @@ in der Nähe ihrer Familien wohnen können. Dies wird ermöglicht durch den Bau 
 
 **Wir möchten in dem neuen Wohnumfeld unterstützend tätig werden, um unseren Kindern im Wohn- und Freizeitbereich das Leben zu verschönern und zu erleichtern.**
 
-</div>
-
-<div class="images columns is-hidden-mobile">
-  <div class="column">
-    <img alt="Familie mit Sohn Trisomie" src="wer-sind-wir-bild1.jpg" />
   </div>
-  <div class="column">
-    <img alt="Behinderte Frau wird gefüttert" src="wer-sind-wir-bild2.jpg" />
+  <div class="images columns is-hidden-mobile">
+    <div class="column">
+      <img alt="Familie mit Sohn Trisomie" src="wer-sind-wir-bild1.jpg" />
+    </div>
+    <div class="column">
+      <img alt="Behinderte Frau wird gefüttert" src="wer-sind-wir-bild2.jpg" />
+    </div>
   </div>
-</div>
-
 </section>
 
 <section>
-<div class="text">
+  <div class="images columns is-hidden-mobile">
+    <div class="column">
+      <img class="image" alt="Mutter_mit_behindertem_Sohn" src="was-machen-wir-bild1.jpg" />
+    </div>
+  </div>
+  <div class="text">
 
 ## Was machen wir?
 
 Wir geben den Menschen eine Stimme, die sich aufgrund von schwerer und schwerster Behinderung selbst nicht artikulieren können. Wir werden unterstützend tätig, um das Leben der Bewohner der geplanten Wohneinrichtung in Soest zu verschönern. Diese Unterstützung umfasst nicht nur die Ausgestaltung des direkten Wohnumfeldes, sondern auch Freizeitaktivitäten, Hilfsmittel etc.
 
-</div>
+  </div>
 </section>
 
 <section>
-<div class="text">
+  <div class="text">
 
 ## Was treibt uns an?
 
 Die Lebenssituation der Menschen mit Behinderung treibt uns an. Wir möchten, dass es ihnen gut geht und dass sie heimatnah ein schönes Leben haben. Die meisten der Betroffenen können nicht für sich selbst sorgen und ihre Bedürfnisse nicht eigenständig artikulieren. Sie werden ihr ganzes Leben lang auf Unterstützung
 angewiesen sein. Wir als Angehörige möchten die Voraussetzungen für ein glückliches und erfülltes Leben schaffen.
 
-</div>
+  </div>
+  <div class="images columns is-hidden-mobile">
+    <div class="column">
+      <img alt="Lachender Mann geistige Behinderung" src="was-treibt-uns-an-bild1.jpg" />
+    </div>
+    <div class="column">
+      <img alt="Junger behinderter Mann mit Mutter" src="was-treibt-uns-an-bild2.jpg" />
+    </div>
+  </div>
 </section>
 
 <section>
-<div class="text">
+  <div class="images columns is-hidden-mobile">
+    <div class="column">
+      <img alt="Oma mit behindertem Enkel Backen" src="welche-ziele-verfolgen-wir-bild1.jpg" />
+    </div>
+    <div class="column">
+      <img alt="Tochter mit Mutter im Rollstuhl" src="welche-ziele-verfolgen-wir-bild2.jpg" />
+    </div>
+  </div>
+  <div class="text">
 
 ## Welche Ziele verfolgen wir?
 
 Gemäß dem Leitbild „Besser wohnen und leben für Menschen mit Behinderung“ setzen wir uns dafür ein, dass unsere Angehörigen an Lebensqualität gewinnen. Wir möchten einen Beitrag zu einem Wohnumfeld schaffen, in dem sich die Bewohner zuhause fühlen können. Wir möchten ihnen durch Freizeitangebote die Teilhabe am gesellschaftlichen Miteinander innerhalb und außerhalb der Soester Stadtgrenzen ermöglichen und ihnen durch das Bereitstellen angemessener Transportmittel zu mehr Unabhängigkeit und Spontaneität verhelfen.
 
-</div>
+  </div>
 </section>
 
 <section>
-<div class="text">
+  <div class="text">
 
 ## Wollen Sie mitmachen?
 
 Jeder kann mitmachen! Wir begrüßen Privatpersonen ebenso gerne wie Unternehmen, Vereine und Stiftungen.
 Wenn Sie unsere Ziele unterstützen möchten, dann seien Sie herzlich willkommen! Wir freuen uns über Unterstützung jeder Art – sei es in Form einer passiven Mitgliedschaft oder als aktives Mitglied in unserem Förderverein.
 
-</div>
+  </div>
+  <div class="images columns is-hidden-mobile">
+    <div class="column">
+      <img alt="Junger behinderter Mann mit Vater" src="wollen-sie-mitmachen-bild1.jpg" />
+    </div>
+  </div>
 </section>
 
 <section>
-<div class="text">
+  <div class="text">
 
 ### Hier finden Sie uns!
 
@@ -123,7 +147,7 @@ Telefon 0 29 21 - 3 39 71 73
 www.lebenstraum-soest.de  
 info@lebenstraum-soest.de
 
-</div>
+  </div>
 </section>
 
 <div class="links mb-6">

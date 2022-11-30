@@ -86,9 +86,14 @@ body {
         .images {
           flex-direction: column;
 
-          img {
-            width: 265px;
-            max-width: 265px;
+          .column {
+            display: grid;
+            align-content: center;
+
+            img {
+              width: 265px;
+              max-width: 265px;
+            }
           }
         }
       }
@@ -97,6 +102,16 @@ body {
         background-color: $offwhite;
         box-shadow: 0 0 0 100vmax $offwhite;
         clip-path: inset(0 -100vmax);
+
+        .images {
+          margin-left: 4px;
+        }
+      }
+
+      section:nth-child(even) {
+        .images {
+          margin-right: 4px;
+        }
       }
 
       a.button.is-primary {
