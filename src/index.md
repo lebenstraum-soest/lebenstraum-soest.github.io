@@ -173,46 +173,45 @@ info@lebenstraum-soest.de
     </div>
   </div>
 </div>
-<section class="odd">
+<section class="odd vorstand">
   <div class="text">
 
 ## Vorstand
 
-<div class="vorstand">
-  <div class="columns">
-    <div class="column is-one-half">
-      <img alt="Klaus Tappesser 1. Vorsitzende" src="KlausTappesser.jpg" />
-      <div class="header">
-        <div class="name">Klaus Tappesser</div>
-        <div class="titel">1. Vorsitzende</div>
-      </div>
-    </div>
-    <div class="column is-one-half">
-      <img alt="Stefan Torley 2. Vorsitzende" src="StefanTorley.jpg" />
-      <div class="header">
-        <div class="name">Stefan Torley</div>
-        <div class="titel">2. Vorsitzende</div>
-      </div>
-    </div>
   </div>
-  <div class="columns">
-    <div class="column is-one-half">
-      <img alt="Klaus Tappesser Schriftführerin" src="KatjaTappesser.jpg" />
-      <div class="header">
-        <div class="name">Katja Tappesser</div>
-        <div class="titel">Schriftführerin</div>
+  <div class="images">
+    <div class="columns">
+      <div class="column is-one-half">
+        <img alt="Klaus Tappesser 1. Vorsitzende" src="KlausTappesser.jpg" />
+        <div class="header">
+          <div class="name">Klaus Tappesser</div>
+          <div class="titel">1. Vorsitzende</div>
+        </div>
+      </div>
+      <div class="column is-one-half">
+        <img alt="Stefan Torley 2. Vorsitzende" src="StefanTorley.jpg" />
+        <div class="header">
+          <div class="name">Stefan Torley</div>
+          <div class="titel">2. Vorsitzende</div>
+        </div>
       </div>
     </div>
-    <div class="column is-one-half">
-      <img alt="Manuela Birkenhof Kassenwartin" src="ManuelaBirkenhof.jpg" />
-      <div class="header">
-        <div class="name">Manuela Birkenhof</div>
-        <div class="titel">Kassenwartin</div>
+    <div class="columns">
+      <div class="column is-one-half">
+        <img alt="Klaus Tappesser Schriftführerin" src="KatjaTappesser.jpg" />
+        <div class="header">
+          <div class="name">Katja Tappesser</div>
+          <div class="titel">Schriftführerin</div>
+        </div>
+      </div>
+      <div class="column is-one-half">
+        <img alt="Manuela Birkenhof Kassenwartin" src="ManuelaBirkenhof.jpg" />
+        <div class="header">
+          <div class="name">Manuela Birkenhof</div>
+          <div class="titel">Kassenwartin</div>
+        </div>
       </div>
     </div>
-  </div>
-</div>
-
   </div>
 </section>
 
