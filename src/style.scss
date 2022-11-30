@@ -19,6 +19,7 @@ $textPadding: 48px;
 html {
   font-family: "Open Sans";
   font-weight: 400;
+  font-size: 18px;
 }
 
 body {
@@ -98,7 +99,7 @@ body {
         }
       }
 
-      section:nth-child(odd) {
+      section.odd {
         background-color: $offwhite;
         box-shadow: 0 0 0 100vmax $offwhite;
         clip-path: inset(0 -100vmax);
@@ -108,7 +109,7 @@ body {
         }
       }
 
-      section:nth-child(even) {
+      section.even {
         .images {
           margin-right: 4px;
         }
@@ -116,6 +117,28 @@ body {
 
       a.button.is-primary {
         background-color: $orange;
+      }
+
+      .vorstand {
+        .column {
+          display: flex;
+          align-items: flex-end;
+
+          img {
+            width: 200px;
+            height: 200px;
+            margin-right: 30px;
+          }
+
+          .header {
+            font-size: 20px;
+            margin-right: 40px;
+
+            .name {
+              white-space: nowrap;
+            }
+          }
+        }
       }
     }
   }

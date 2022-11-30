@@ -41,7 +41,7 @@
   </div>
 </div>
 
-<section>
+<section class="odd">
 
   <div class="text">
 
@@ -65,7 +65,7 @@ in der Nähe ihrer Familien wohnen können. Dies wird ermöglicht durch den Bau 
   </div>
 </section>
 
-<section>
+<section class="even">
   <div class="images columns is-hidden-mobile">
     <div class="column">
       <img class="image" alt="Mutter_mit_behindertem_Sohn" src="was-machen-wir-bild1.jpg" />
@@ -80,7 +80,7 @@ Wir geben den Menschen eine Stimme, die sich aufgrund von schwerer und schwerste
   </div>
 </section>
 
-<section>
+<section class="odd">
   <div class="text">
 
 ## Was treibt uns an?
@@ -99,7 +99,7 @@ angewiesen sein. Wir als Angehörige möchten die Voraussetzungen für ein glüc
   </div>
 </section>
 
-<section>
+<section class="even">
   <div class="images columns is-hidden-mobile">
     <div class="column">
       <img alt="Oma mit behindertem Enkel Backen" src="welche-ziele-verfolgen-wir-bild1.jpg" />
@@ -117,7 +117,7 @@ Gemäß dem Leitbild „Besser wohnen und leben für Menschen mit Behinderung“
   </div>
 </section>
 
-<section>
+<section class="odd">
   <div class="text">
 
 ## Wollen Sie mitmachen?
@@ -133,10 +133,10 @@ Wenn Sie unsere Ziele unterstützen möchten, dann seien Sie herzlich willkommen
   </div>
 </section>
 
-<section>
+<section class="even">
   <div class="text">
 
-### Hier finden Sie uns!
+## Hier finden Sie uns!
 
 Bei Fragen wenden Sie sich gerne an uns.
 
@@ -149,11 +149,10 @@ info@lebenstraum-soest.de
 
   </div>
 </section>
-
 <div class="links mb-6">
   <div class="columns">
     <div class="column is-one-third">
-      <a class="button is-primary" href="">Vorstand</a>
+      <a class="button is-primary" href="#vorstand">Vorstand</a>
     </div>
     <div class="column is-one-third">
       <a class="button is-primary" href="">Satzung</a>
@@ -164,13 +163,93 @@ info@lebenstraum-soest.de
   </div>
   <div class="columns">
     <div class="column is-one-third">
-      <a class="button is-primary" href="">Spendenkonto</a>
+      <a class="button is-primary" href="#spendenkonto">Spendenkonto</a>
     </div>
     <div class="column is-one-third">
       <a class="button is-primary" href="Mitgliedsantrag.pdf">Mitgliedsantrag</a>
     </div>
     <div class="column is-one-third">
-      <a class="button is-primary" href="">Impressum</a>
+      <a class="button is-primary" href="#impressum">Impressum</a>
     </div>
   </div>
 </div>
+<section class="odd">
+  <div class="text">
+
+## Vorstand
+
+<div class="vorstand">
+  <div class="columns">
+    <div class="column is-one-half">
+      <img alt="Klaus Tappesser 1. Vorsitzende" src="KlausTappesser.jpg" />
+      <div class="header">
+        <div class="name">Klaus Tappesser</div>
+        <div class="titel">1. Vorsitzende</div>
+      </div>
+    </div>
+    <div class="column is-one-half">
+      <img alt="Stefan Torley 2. Vorsitzende" src="StefanTorley.jpg" />
+      <div class="header">
+        <div class="name">Stefan Torley</div>
+        <div class="titel">2. Vorsitzende</div>
+      </div>
+    </div>
+  </div>
+  <div class="columns">
+    <div class="column is-one-half">
+      <img alt="Klaus Tappesser Schriftführerin" src="KatjaTappesser.jpg" />
+      <div class="header">
+        <div class="name">Katja Tappesser</div>
+        <div class="titel">Schriftführerin</div>
+      </div>
+    </div>
+    <div class="column is-one-half">
+      <img alt="Manuela Birkenhof Kassenwartin" src="ManuelaBirkenhof.jpg" />
+      <div class="header">
+        <div class="name">Manuela Birkenhof</div>
+        <div class="titel">Kassenwartin</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  </div>
+</section>
+
+<section class="even">
+  <div class="text">
+
+## Spendenkonto
+
+Sie möchten unseren Verein finanziell unterstützen?  
+Wir freuen uns!
+
+Volksbank Soest
+
+**IBAN: DE46 4146 0116 3260 9260 9208 00**
+
+**BIC GENODEM1SOE**
+
+Bitte kontaktieren Sie uns, wenn Sie eine Spendenquittung benötigen.  
+Vielen Dank
+
+  </div>
+</section>
+
+<section class="odd">
+  <div class="text">
+
+## Impressum
+
+LebensTraum-Soest e. V.  
+In den Kalten Höfen 31  
+59494 Soest  
+Telefon 0 29 21 - 3 39 71 73  
+www.lebenstraum-soest.de
+info@lebenstraum-soest.de
+
+Vereinsregister  
+Amtsgericht Arnsberg
+
+  </div>
+</section>
