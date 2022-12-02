@@ -227,7 +227,7 @@ Volksbank Soest
 
 **IBAN: DE46 4146 0116 3260 9260 9208 00**
 
-**BIC GENODEM1SOE**
+**BIC: GENODEM1SOE**
 
 Bitte kontaktieren Sie uns, wenn Sie eine Spendenquittung benötigen.  
 Vielen Dank
