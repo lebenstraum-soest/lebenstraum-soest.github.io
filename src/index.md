@@ -47,7 +47,7 @@
 
 ## Wer sind wir?
 
-Wir sind ein Förderverein, der aus einer **Elterninitiative** hervorgegangen ist. Unsre Kinder sind mit schweren oder schwersten Behinderungen zur Welt gekommen.
+Wir sind ein Förderverein, der aus einer **Elterninitiative** hervorgegangen ist. Unsere Kinder sind mit schweren oder schwersten Behinderungen zur Welt gekommen.
 
 Wir setzen uns dafür ein, dass sie im Sinne des Art. 19 UN-Behindertenrechtskonvention auch als Erwachsene
 in der Nähe ihrer Familien wohnen können. Dies wird ermöglicht durch den Bau der geplanten Wohneinrichtung für Erwachsene mit Behinderung in Soest, deren Träger die Josefsheim gGmbH sein wird.
@@ -55,11 +55,11 @@ in der Nähe ihrer Familien wohnen können. Dies wird ermöglicht durch den Bau 
 **Wir möchten in dem neuen Wohnumfeld unterstützend tätig werden, um unseren Kindern im Wohn- und Freizeitbereich das Leben zu verschönern und zu erleichtern.**
 
   </div>
-  <div class="images columns is-hidden-mobile">
+  <div class="images columns">
     <div class="column">
       <img alt="Familie mit Sohn Trisomie" src="wer-sind-wir-bild1.jpg" />
     </div>
-    <div class="column">
+    <div class="column is-hidden-mobile">
       <img alt="Behinderte Frau wird gefüttert" src="wer-sind-wir-bild2.jpg" />
     </div>
   </div>
@@ -182,17 +182,17 @@ info@lebenstraum-soest.de
   <div class="images">
     <div class="columns">
       <div class="column is-one-half">
-        <img alt="Klaus Tappesser 1. Vorsitzende" src="KlausTappesser.jpg" />
+        <img alt="Klaus Tappesser 1. Vorsitzender" src="KlausTappesser.jpg" />
         <div class="header">
           <div class="name">Klaus Tappesser</div>
-          <div class="titel">1. Vorsitzende</div>
+          <div class="titel">1. Vorsitzender</div>
         </div>
       </div>
       <div class="column is-one-half">
-        <img alt="Stefan Torley 2. Vorsitzende" src="StefanTorley.jpg" />
+        <img alt="Stefan Torley 2. Vorsitzender" src="StefanTorley.jpg" />
         <div class="header">
           <div class="name">Stefan Torley</div>
-          <div class="titel">2. Vorsitzende</div>
+          <div class="titel">2. Vorsitzender</div>
         </div>
       </div>
     </div>
