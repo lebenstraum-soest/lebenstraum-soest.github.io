@@ -15,6 +15,7 @@ const layout: LayoutFunction = ({ content }: LayoutFunctionArgs) => {
         <link rel="stylesheet" type="text/css" href="style.css" />
       </head>
       <body class="container is-centered">
+        <div class="stripe"></div>
         <header class="column mb-6">
           <img id="logo" src="logo.png" alt="LebensTraum-Soest e. V." />
         </header>
