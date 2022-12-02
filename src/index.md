@@ -41,7 +41,7 @@
   </div>
 </div>
 
-<section class="odd">
+<section class="info odd">
 
   <div class="text">
 
@@ -65,8 +65,8 @@ in der Nähe ihrer Familien wohnen können. Dies wird ermöglicht durch den Bau 
   </div>
 </section>
 
-<section class="even">
-  <div class="images columns is-hidden-mobile">
+<section class="info even">
+  <div class="images columns">
     <div class="column">
       <img class="image" alt="Mutter_mit_behindertem_Sohn" src="was-machen-wir-bild1.jpg" />
     </div>
@@ -80,7 +80,7 @@ Wir geben den Menschen eine Stimme, die sich aufgrund von schwerer und schwerste
   </div>
 </section>
 
-<section class="odd">
+<section class="info odd">
   <div class="text">
 
 ## Was treibt uns an?
@@ -89,22 +89,22 @@ Die Lebenssituation der Menschen mit Behinderung treibt uns an. Wir möchten, da
 angewiesen sein. Wir als Angehörige möchten die Voraussetzungen für ein glückliches und erfülltes Leben schaffen.
 
   </div>
-  <div class="images columns is-hidden-mobile">
+  <div class="images columns">
     <div class="column">
       <img alt="Lachender Mann geistige Behinderung" src="was-treibt-uns-an-bild1.jpg" />
     </div>
-    <div class="column">
+    <div class="column is-hidden-mobile">
       <img alt="Junger behinderter Mann mit Mutter" src="was-treibt-uns-an-bild2.jpg" />
     </div>
   </div>
 </section>
 
-<section class="even">
-  <div class="images columns is-hidden-mobile">
+<section class="info even">
+  <div class="images columns">
     <div class="column">
       <img alt="Oma mit behindertem Enkel Backen" src="welche-ziele-verfolgen-wir-bild1.jpg" />
     </div>
-    <div class="column">
+    <div class="column is-hidden-mobile">
       <img alt="Tochter mit Mutter im Rollstuhl" src="welche-ziele-verfolgen-wir-bild2.jpg" />
     </div>
   </div>
@@ -117,7 +117,7 @@ Gemäß dem Leitbild „Besser wohnen und leben für Menschen mit Behinderung“
   </div>
 </section>
 
-<section class="odd">
+<section class="info odd">
   <div class="text">
 
 ## Wollen Sie mitmachen?
@@ -126,7 +126,7 @@ Jeder kann mitmachen! Wir begrüßen Privatpersonen ebenso gerne wie Unternehmen
 Wenn Sie unsere Ziele unterstützen möchten, dann seien Sie herzlich willkommen! Wir freuen uns über Unterstützung jeder Art – sei es in Form einer passiven Mitgliedschaft oder als aktives Mitglied in unserem Förderverein.
 
   </div>
-  <div class="images columns is-hidden-mobile">
+  <div class="images columns">
     <div class="column">
       <img alt="Junger behinderter Mann mit Vater" src="wollen-sie-mitmachen-bild1.jpg" />
     </div>

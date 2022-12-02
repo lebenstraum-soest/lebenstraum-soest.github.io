@@ -20,9 +20,13 @@ html {
   font-family: "Open Sans";
   font-weight: 400;
   font-size: 18px;
+  margin: 0;
+  padding: 0;
 }
 
 body {
+  margin: 0;
+  padding: 0;
   text-align: left;
   justify-content: center;
   max-width: $maxContentWidth !important;
@@ -156,6 +160,40 @@ body {
 
     main {
       .content {
+        .header {
+          .column {
+            img {
+              width: auto;
+              height: 240px;
+            }
+          }
+        }
+
+        section.info {
+          display: grid;
+          grid-template-rows: 250px 1fr;
+
+          .text {
+            // margin-top: 250px;
+            grid-row: 2;
+          }
+
+          .images {
+            grid-row: 1;
+            margin: 0;
+
+            .column {
+              padding: 0;
+
+              img {
+                width: auto;
+                max-width: inherit;
+                height: 240px;
+              }
+            }
+          }
+        }
+
         .vorstand {
           .images {
             .column {
