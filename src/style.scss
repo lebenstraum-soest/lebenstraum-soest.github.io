@@ -42,10 +42,6 @@ body {
 
   header {
     text-align: center;
-
-    img {
-      width: $maxContentWidth;
-    }
   }
 
   main {
@@ -173,7 +169,7 @@ body {
     }
 
     header {
-      
+      padding: 0;
     }
 
     main {

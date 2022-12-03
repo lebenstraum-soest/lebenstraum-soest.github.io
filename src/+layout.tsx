@@ -17,13 +17,11 @@ const layout: LayoutFunction = ({ content }: LayoutFunctionArgs) => {
       <body class="container is-centered">
         <div class="stripe"></div>
         <header class="mb-6">
-          <img
-            id="logo"
-            srcset="logo_343w.jpg 343w, logo_830w.jpg 830w"
-            sizes="(max-width: 768px) 343px, 830px"
-            src="logo_830w.jpg"
-            alt="LebensTraum-Soest e. V."
-          />
+          <picture>
+            <source srcset="logo_830w.jpg" media="(min-width: 769px)" />
+            <source srcset="logo_343w.jpg" media="(max-width: 768px)" />
+            <img id="logo" src="logo_830w.jpg" alt="LebensTraum-Soest e. V." />
+          </picture>
         </header>
         <main class="">
           <div class="content">{content}</div>
