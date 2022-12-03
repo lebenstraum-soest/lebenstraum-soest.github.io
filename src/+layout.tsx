@@ -16,8 +16,14 @@ const layout: LayoutFunction = ({ content }: LayoutFunctionArgs) => {
       </head>
       <body class="container is-centered">
         <div class="stripe"></div>
-        <header class="column mb-6">
-          <img id="logo" src="logo.png" alt="LebensTraum-Soest e. V." />
+        <header class="mb-6">
+          <img
+            id="logo"
+            srcset="logo_343w.jpg 343w, logo_830w.jpg 830w"
+            sizes="(max-width: 768px) 343px, 830px"
+            src="logo_830w.jpg"
+            alt="LebensTraum-Soest e. V."
+          />
         </header>
         <main class="">
           <div class="content">{content}</div>
