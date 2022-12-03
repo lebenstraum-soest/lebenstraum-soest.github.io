@@ -155,7 +155,7 @@ info@lebenstraum-soest.de
       <a class="button is-primary" href="#vorstand">Vorstand</a>
     </div>
     <div class="column is-one-third">
-      <a class="button is-primary" href="">Satzung</a>
+      <a class="button is-primary" href="Satzung.pdf">Satzung</a>
     </div>
     <div class="column is-one-third">
       <a class="button is-primary" href="Datenschutzerklärung.pdf">Datenschutz</a>
