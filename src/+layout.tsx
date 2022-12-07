@@ -11,8 +11,11 @@ const layout: LayoutFunction = ({ content }: LayoutFunctionArgs) => {
             name="viewport"
             content="width=device-width, initial-scale=1.0, maximum-scale=1"
           />
-          <meta name="description" content="" />
           <meta name="author" content="Klaus Tappesser" />
+          <meta
+            name="description"
+            content="Wir bereiten Menschen mit Behinderung mehr Lebens- und Wohnqualität. Diese Menschen werden in einer Wohneinrichtung der Josefsheim gGmbH in Soest leben."
+          />
           <title>LebensTraum-Soest e. V.</title>
           <link rel="stylesheet" type="text/css" href="style.css" />
         </head>
