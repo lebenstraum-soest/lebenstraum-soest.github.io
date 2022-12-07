@@ -225,7 +225,7 @@ Wir freuen uns!
 
 Volksbank Soest
 
-**IBAN: DE46 4146 0116 3260 9260 9208 00**
+**IBAN: DE46 4146 0116 3260 9208 00**
 
 **BIC: GENODEM1SOE**
 
