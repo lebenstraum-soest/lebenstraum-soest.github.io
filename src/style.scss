@@ -177,8 +177,8 @@ body {
         .header {
           .column {
             img {
-              width: auto;
-              height: 240px;
+              width: 360px;
+              max-width: inherit;
             }
           }
         }
@@ -200,9 +200,8 @@ body {
               padding: 0;
 
               img {
-                width: auto;
+                width: 360px;
                 max-width: inherit;
-                height: 240px;
               }
             }
           }
