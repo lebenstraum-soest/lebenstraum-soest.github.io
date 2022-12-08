@@ -143,8 +143,10 @@ Bei Fragen wenden Sie sich gerne an uns.
 LebensTraum-Soest e. V.  
 In den Kalten Höfen 31  
 59494 Soest  
-Telefon 0 29 21 - 3 39 71 73  
-www.lebenstraum-soest.de  
+Telefon 0 29 21 - 3 39 71 73
+
+www.lebenstraum-soest.de
+
 info@lebenstraum-soest.de
 
   </div>
@@ -243,8 +245,10 @@ Vielen Dank
 LebensTraum-Soest e. V.  
 In den Kalten Höfen 31  
 59494 Soest  
-Telefon 0 29 21 - 3 39 71 73  
-www.lebenstraum-soest.de  
+Telefon 0 29 21 - 3 39 71 73
+
+www.lebenstraum-soest.de
+
 info@lebenstraum-soest.de
 
 Vereinsregister  
