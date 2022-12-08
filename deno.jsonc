@@ -19,8 +19,9 @@
   },
   "importMap": "imports.jsonc",
   "tasks": {
-    "build": "cd ../book-binder && deno task exec $INIT_CWD/src $INIT_CWD/bin",
-    "build:ci": "deno run --unstable --allow-net --allow-read --allow-write --config ./deno.jsonc https://raw.githubusercontent.com/smack0007/book-binder/v0.0.8/cli.ts $INIT_CWD/src $INIT_CWD/bin",
+    "build": "cd ../book-binder && deno task exec $INIT_CWD/src $INIT_CWD/bin && cd $INIT_CWD && deno task purgecss",
+    "build:ci": "deno run --unstable --allow-net --allow-read --allow-write --config ./deno.jsonc https://raw.githubusercontent.com/smack0007/book-binder/v0.0.8/cli.ts $INIT_CWD/src $INIT_CWD/bin && deno task purgecss",
+    "purgecss": "npx -y purgecss --css ./bin/style.css --content ./bin/index.html --output ./bin/style.css",
     "serve": "deno run --allow-net --allow-read ./tools/serve.ts"
   }
 }
